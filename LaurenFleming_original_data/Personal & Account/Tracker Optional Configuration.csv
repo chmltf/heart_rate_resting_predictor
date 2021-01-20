@@ -1,0 +1,2 @@
+tracker_id,enabled_notification_types,on_right_hand,clock_face,enable_inactivity_alerts,last_updated_ia_time,last_reboot_time,payments_enabled,last_successful_wifi_connection_time,last_successful_wifi_connectionipv4addr,last_successful_wifi_connectionipv6addr,last_successful_wifi_connectionssid,live_data_disabled
+770357913,"[INCOMING_CALL, TEXT_MESSAGE]",false,hhmm_date_v,false,2019-07-24T20:24:35.000Z,,false,,,,,false

@@ -1,0 +1,3 @@
+timestamp,event_name,email,location,ip,outcome,reason,application,device_info
+Wed Jan 20 09:40:01 UTC 2021,Login,laurenthomsonfleming@gmail.com,"Leeds, LDS, United Kingdom",194.80.232.19,SUCCESS,,Fitbit Accounts,"os_name: Windows,os_version: 7,browser_name: Chrome,browser_version: 87.0.4280.141,device_name: Windows"
+Tue Jan 19 21:45:31 UTC 2021,Login,laurenthomsonfleming@gmail.com,"Polmont, FAL, United Kingdom",90.253.13.26,SUCCESS,,Fitbit Accounts,"os_name: iOS,os_version: 14.2,browser_name: Chrome,browser_version: 87.0.4280.77,device_name: Apple iPad,device_model: iPad,device_manufacturer: Apple"
